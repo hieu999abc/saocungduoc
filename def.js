@@ -313,7 +313,7 @@ if (ua.includes("Locket")) {
 
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",
-            url: "https://i.ibb.co/LDSQ1G8q/t-i-xu-ng-2-1.png",
+            url: "https://i.ibb.co/ccdrGzrt/1795146118458-51238425216241447-1744175342587368869-3ed0b1f48919c24898b406d4444935a7-1-1.png",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
